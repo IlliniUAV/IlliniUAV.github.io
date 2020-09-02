@@ -171,6 +171,10 @@ fieldset[disabled] .btn-xl.active {
   color: white;
   font-size: 12px;
 }
+#IUAVLogo {
+  height: 40px;
+  width: 40px;
+}
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
   background-color: #ff5733;
